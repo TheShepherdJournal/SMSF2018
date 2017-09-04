@@ -7,25 +7,25 @@ layout: post
 permalink: 'http://www.shepherdmaplesyrupfest.org?p=6684&preview=true&preview_id=6684'
 published: false
 ---
-<h1>Upcoming Events</h1>
+<h2>Upcoming Events</h2>
 <p>For more information, visit the <a href="https://www.facebook.com/pg/shepherdjournal/events/">Shepherd Journal events page on Facebook</a>.</p>
 <p></p>
-<h2>September</h2>
+<h3>September</h3>
 <p><hr></p>
-<h3>SEP 15</h3>
-<h4>Veterans Night</h4>
+<h4>SEP 15</h4>
+<h5>Veterans Night</h5>
 <p>Fri 5:30 PM</p>
 <p>Shepherd High School</p>
 <p>Shepherd</p>
 <p><hr></p>
-<h3>SEP 19</h3>
-<h4>Teen Tuesday: Art Attack - Perler Beads</h4>
+<h4>SEP 19</h4>
+<h5>Teen Tuesday: Art Attack - Perler Beads</h5>
 <p>Tue 6 PM</p>
 <p>Shepherd Community Library</p>
 <p>Shepherd</p>
 <p><hr></p>
-<h3>SEP 21</h3>
-<h4>Shepherd Community Friends of the Library Monthly Meeting</h4>
+<h4>SEP 21</h4>
+<h5>Shepherd Community Friends of the Library Monthly Meeting</h5>
 <p>Thu 7 PM by Shepherd Community Friends of the Library Shepherd Community Library</p>
 <p>Shepherd</p>
 <p></p>
