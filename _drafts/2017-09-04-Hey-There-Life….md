@@ -8,6 +8,7 @@ permalink: 'http://www.shepherdmaplesyrupfest.org?p=6696&preview=true&preview_id
 published: false
 ---
 <h2>Reflections on Summer Speaking Experiences</h2>
+<h3><img src="http://www.shepherdmaplesyrupfest.org/wp-content/uploads/2017/09/null-1.png" width="624" height="468" alt="" title=""></h3>
 <h3>By Jay Gross</h3>
 <p>Hey There Life…</p>
 <p>You have given me a chance, a unique opportunity... and I am so very grateful for it...
