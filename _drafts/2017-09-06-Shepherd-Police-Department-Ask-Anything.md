@@ -71,7 +71,10 @@ Drivers who use it for accelerating and merging are breaking the law and creatin
 <h5>SPD:</h5>
 <p>The officer needs to view it to issue it. If nobody is there to see it...there isn't much that can be done. The worst idea is when people "brakecheck" or slam on their brakes...very dangerous for all involved.</p>
 <p></p>
+<p>Source: <a href="https://www.facebook.com/permalink.php?story_fbid=1660252720659956&amp;id=205632619455314">Shepherd Police Department</p>
 <p></p>
+<p></p>
+<p><a href="https://docs.google.com/document/d/1nJOo7S-n-IPypHAIP-WAdVsXCShbj8C3NL3agHiwsDg/edit?usp=sharing">Edit Google Doc</a></p>
 <p></p>
 <p></p>
 <p></p>
