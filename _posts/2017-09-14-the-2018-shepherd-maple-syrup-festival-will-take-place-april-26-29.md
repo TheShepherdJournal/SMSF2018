@@ -1,11 +1,13 @@
 ---
 ID: 6906
-post_title: ""
+post_title: 'The 2018 Shepherd Maple Syrup Festival will take place April 26 &#8211; 29'
 author: ng23055
 post_excerpt: ""
 layout: post
-permalink: 'http://www.shepherdmaplesyrupfest.org?p=6906&preview=true&preview_id=6906'
-published: false
+permalink: >
+  http://www.shepherdmaplesyrupfest.org/the-2018-shepherd-maple-syrup-festival-will-take-place-april-26-29
+published: true
+post_date: 2017-09-14 03:12:19
 ---
 The Festival is held the last full week of April each year. During Syrup Festival week there are numerous garage &amp; yard sales.
 
