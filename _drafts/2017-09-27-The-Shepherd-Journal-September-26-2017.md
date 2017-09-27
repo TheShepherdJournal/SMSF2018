@@ -7,8 +7,6 @@ layout: post
 permalink: 'http://www.shepherdmaplesyrupfest.org?p=7124&preview=true&preview_id=7124'
 published: false
 ---
-<h1>The Shepherd Journal</h1>
-<h2>September 26, 2017</h2>
 <h3>Half Day for Shepherd High School</h3>
 <p>Wednesday, September 27, 2017 is a half day for students. Here is our half day schedule. Reminder there is no CTE classes on Wednesday.</p>
 <p>2017-2018 Shepherd High School Half Day Schedule </p>
