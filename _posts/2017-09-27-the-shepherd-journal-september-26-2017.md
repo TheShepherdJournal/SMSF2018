@@ -4,8 +4,10 @@ post_title: The Shepherd Journal September 26, 2017
 author: ng23055
 post_excerpt: ""
 layout: post
-permalink: 'http://www.shepherdmaplesyrupfest.org?p=7124&preview=true&preview_id=7124'
-published: false
+permalink: >
+  http://www.shepherdmaplesyrupfest.org/the-shepherd-journal-september-26-2017
+published: true
+post_date: 2017-09-27 03:08:20
 ---
 <h3>Half Day for Shepherd High School</h3>
 Wednesday, September 27, 2017 is a half day for students. Here is our half day schedule. Reminder there is no CTE classes on Wednesday.
