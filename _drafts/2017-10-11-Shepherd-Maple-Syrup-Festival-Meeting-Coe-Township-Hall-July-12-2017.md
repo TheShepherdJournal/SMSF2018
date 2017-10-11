@@ -34,3 +34,7 @@ published: false
 <p>Next Meeting August 2, 2017</i></s></b></u></p>
 <p></i></s></b></u></p>
 <p>Diane Courter, Secretary</i></s></b></u></p>
+<p></p>
+<p></p>
+<p></p>
+<p><a href="https://docs.google.com/document/d/1kTmGv6S-EDC90Ga6rjK-G8M4cbwG6HbBD-Xp7ak_8Jo/edit?usp=sharing">Edit in Google Docs</a></p>
