@@ -4,10 +4,8 @@ post_title: Shepherd Police Department Ask Anything
 author: ng23055
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.shepherdmaplesyrupfest.org/shepherd-police-department-ask-anything
-published: true
-post_date: 2017-09-08 01:26:18
+permalink: 'http://www.shepherdmaplesyrupfest.org?p=6738&preview=true&preview_id=6738'
+published: false
 ---
 <h2>Shepherd Police Department Ask Anything</h2>
 <h3>Tuesday, September 5, 2017</h3>
