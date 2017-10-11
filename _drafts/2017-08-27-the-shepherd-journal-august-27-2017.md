@@ -4,10 +4,8 @@ post_title: The Shepherd Journal, August 27 2017
 author: ng23055
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.shepherdmaplesyrupfest.org/the-shepherd-journal-august-27-2017
-published: true
-post_date: 2017-08-27 23:44:54
+permalink: 'http://www.shepherdmaplesyrupfest.org?p=6565&preview=true&preview_id=6565'
+published: false
 ---
 <h3>Inside:</h3>
 <ul>
