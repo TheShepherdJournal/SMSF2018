@@ -4,10 +4,8 @@ post_title: Teen “Chopped” Competition
 author: ng23055
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.shepherdmaplesyrupfest.org/teen-chopped-competition
-published: true
-post_date: 2017-09-08 02:39:02
+permalink: 'http://www.shepherdmaplesyrupfest.org?p=6785&preview=true&preview_id=6785'
+published: false
 ---
 <h2>Teen “Chopped” Competition</h2>
 <img title="" src="http://www.shepherdmaplesyrupfest.org/wp-content/uploads/2017/09/null-5.png" alt="" width="564" height="780" />
