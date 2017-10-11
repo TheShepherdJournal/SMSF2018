@@ -4,10 +4,8 @@ post_title: September2017-ShepherdCalendarofEvents
 author: ng23055
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.shepherdmaplesyrupfest.org/september2017-shepherdcalendarofevents
-published: true
-post_date: 2017-09-04 12:51:48
+permalink: 'http://www.shepherdmaplesyrupfest.org?p=6684&preview=true&preview_id=6684'
+published: false
 ---
 <h2>September 2017</h2>
 <p><hr></p>
