@@ -4,10 +4,8 @@ post_title: Shepherd Equestrian Team News
 author: ng23055
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.shepherdmaplesyrupfest.org/shepherd-equestrian-team-news
-published: true
-post_date: 2017-09-08 02:36:43
+permalink: 'http://www.shepherdmaplesyrupfest.org?p=6791&preview=true&preview_id=6791'
+published: false
 ---
 <h2>Shepherd Equestrian Team News</h2>
 Come out and support the Shepherd Equestrian Team at their last district meet September 9 at the Isabella County Fairgrounds and at their Regionals meet on September 30-October 1 at the Midland County Fairgrounds.
