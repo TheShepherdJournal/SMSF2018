@@ -7,10 +7,8 @@ post_title: >
 author: ng23055
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.shepherdmaplesyrupfest.org/shepherd-chamber-of-commerce-and-friends-of-the-library-to-sponsor-free-movie-september-22
-published: true
-post_date: 2017-09-20 01:37:08
+permalink: 'http://www.shepherdmaplesyrupfest.org?p=6995&preview=true&preview_id=6995'
+published: false
 ---
 <img title="" src="http://www.shepherdmaplesyrupfest.org/wp-content/uploads/2017/09/null-2.jpeg" alt="" width="624" height="901" />
 
