@@ -6,10 +6,8 @@ post_title: >
 author: ng23055
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.shepherdmaplesyrupfest.org/shepherd-police-department-august-2017-statistics
-published: true
-post_date: 2017-09-06 01:38:16
+permalink: 'http://www.shepherdmaplesyrupfest.org?p=6736&preview=true&preview_id=6736'
+published: false
 ---
 <h2>Shepherd Police Department August 2017 Statistics</h2>
 We just completed our August 2017 statistics. We responded to 33 complaints, but there wasn't any specific area that stood out more than others. We performed 44 traffic stops and gave 28 verbal warnings.
