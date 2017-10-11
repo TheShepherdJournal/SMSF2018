@@ -4,10 +4,8 @@ post_title: Pledge of Allegiance
 author: ng23055
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.shepherdmaplesyrupfest.org/pledge-of-allegiance
-published: true
-post_date: 2017-09-06 02:02:48
+permalink: 'http://www.shepherdmaplesyrupfest.org?p=6719&preview=true&preview_id=6719'
+published: false
 ---
 <h2>Pledge of Allegiance</h2>
 <img title="" src="http://www.shepherdmaplesyrupfest.org/wp-content/uploads/2017/09/null-2.png" alt="" width="624" height="941" />
