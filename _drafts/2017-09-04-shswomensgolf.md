@@ -4,10 +4,8 @@ post_title: SHSWomensGolf
 author: ng23055
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.shepherdmaplesyrupfest.org/shswomensgolf
-published: true
-post_date: 2017-09-04 12:20:09
+permalink: 'http://www.shepherdmaplesyrupfest.org?p=6674&preview=true&preview_id=6674'
+published: false
 ---
 <h2>SHS Women’s Golf Team News</h2>
 <p></p>
