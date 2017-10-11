@@ -6,10 +6,8 @@ post_title: >
 author: ng23055
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.shepherdmaplesyrupfest.org/chief-sawyer-to-participate-in-2017-dance-united-event
-published: true
-post_date: 2017-09-08 02:37:55
+permalink: 'http://www.shepherdmaplesyrupfest.org?p=6789&preview=true&preview_id=6789'
+published: false
 ---
 <h2>Chief Sawyer to participate in 2017 Dance United event</h2>
 Have you ever said to a child "do what I say...not what I do?" I am sure we have all been guilty of that. Sometimes it comes back to haunt you! Our Department encourages our kiddos to "step out of their comfort zone" and to try new things...well the time has come for Chief Sawyer to do just that!
