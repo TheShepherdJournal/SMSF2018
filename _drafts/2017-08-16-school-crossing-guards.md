@@ -4,10 +4,8 @@ post_title: School Crossing Guards
 author: ng23055
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.shepherdmaplesyrupfest.org/school-crossing-guards
-published: true
-post_date: 2017-08-16 04:01:09
+permalink: 'http://www.shepherdmaplesyrupfest.org?p=6287&preview=true&preview_id=6287'
+published: false
 ---
 <strong>NAME: Sue Dominick</strong>
 LOCATION: Wright Avenue and Fourth Street
