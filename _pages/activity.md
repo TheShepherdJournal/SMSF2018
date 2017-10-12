@@ -1,6 +1,6 @@
 ---
 ID: 4
-post_title: Site-Wide Activity
+post_title: News Feeds
 author: ng23055
 post_excerpt: ""
 layout: page
