@@ -28,10 +28,6 @@ Present- Pete Alexander, Diane &amp; Bob Courter, Vicki &amp; Louise Travis, Jon
  	<li>Park Reservations- Sharon Cole will no longer be taking reservations for the Little Salt River Park. Pete has taken over this position.</li>
  	<li>Sugar Bush-Arnie reported that the design on the syrup jugs will be changing, along with the jugs being made in the U.S.A.</li>
 </ul>
-&nbsp;
-
-&nbsp;
-
 Meeting adjourned—
 
 Next Meeting August 2, 2017
