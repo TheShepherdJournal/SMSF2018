@@ -32,8 +32,10 @@ Meeting adjourned—
 
 Next Meeting August 2, 2017
 
+Diane Courter, Secretary
+
 &nbsp;
 
-Diane Courter, Secretary
+&nbsp;
 
 <a href="https://docs.google.com/document/d/1kTmGv6S-EDC90Ga6rjK-G8M4cbwG6HbBD-Xp7ak_8Jo/edit?usp=sharing">Edit in Google Docs</a>
