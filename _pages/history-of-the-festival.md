@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2017-10-13 03:26:11
 ---
-<img title="" src="http://www.shepherdmaplesyrupfest.org/wp-content/uploads/2017/10/originalsugarbush1959.gif.gif" alt="originalsugarbush1959.gif" width="249" height="230" />
+&nbsp;
 
 On the last full weekend in April the people of the central Michigan community of Shepherd celebrate their annual Maple Syrup Festival. We cordially invite you to come celebrate with us.
 <h2>August 1958</h2>
