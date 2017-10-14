@@ -51,7 +51,7 @@ A great way to make sure that information goes up on time is to touch base with 
 <h2>Submitting your Content</h2>
 There are different ways in which you can submit your content or get in contact with me.
 <ol>
- 	<li>Via the web. Click on “copy desk” in the upper menu on the site and then click “Submit an article.” Your submission will be saved on the site as a draft until it can be reviewed.</li>
+ 	<li>Via the web. Click on “copy desk” in the upper menu on the site and then click “<a href="http://www.shepherdmaplesyrupfest.org/submit-an-article">Submit an article</a>.” Your submission will be saved on the site as a draft until it can be reviewed.</li>
  	<li>Via email. Send submissions via email to <a href="mailto:editor@shepherdhistory.org">editor@shepherdhistory.org</a>.</li>
 </ol>
 If you need to contact me, you can do so via the email shown above, via Facebook, or use the live chat tab that is displayed on the bottom right hand side of the website. I can also be reached by phone at (989) 488-8207.
