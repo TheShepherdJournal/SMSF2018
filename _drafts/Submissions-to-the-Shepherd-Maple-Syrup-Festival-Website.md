@@ -9,7 +9,6 @@ layout: page
 permalink: 'http://www.shepherdmaplesyrupfest.org?page_id=7463&preview_id=7463'
 published: false
 ---
-<h1>Submissions to the Shepherd Maple Syrup Festival Website</h1>
 <p>Submissions are currently being accepted on the website for the 2018 Shepherd Maple Syrup Festival. I am especially interested in publishing descriptions of events, festival related news, photos, and general stories or memories from previous festivals.</p>
 <p>Anybody can submit materials, however if you are an event chairperson or a representative of an organization, it is especially important that you share information so that it can be published on the site.</p>
 <p>If you are interested in having your event promoted on the website but you’re not sure where to start, I am always eager and available to answer questions and work with you to develop some ideas.</p>
