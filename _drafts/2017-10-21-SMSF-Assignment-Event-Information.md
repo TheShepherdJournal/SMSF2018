@@ -7,7 +7,7 @@ layout: post
 permalink: 'http://www.shepherdmaplesyrupfest.org?p=7504&preview=true&preview_id=7504'
 published: false
 ---
-<div>Between now and November 10 I will be collecting event descriptions from organizations, coordinators, and event chair persons. By November 10, I would like each chair person or coordinator to submit the following information related to their event:
+<div>Between now and November 10 I will be collecting event descriptions from organizations, coordinators, and event chair persons. If you are planning an event, or you will be involved, please compile the following information and forward it to editor@shepherdhistory.org:
 <div>
 <ul>
  	<li>Event Title</li>
@@ -21,7 +21,7 @@ published: false
 </ul>
 </div>
 </div>
-<div>Information can be submitted via email to editor@shepherdhistory.org. If you have any questions, please contact me at  before November 10.</div>
+<div>If you have questions, feel f</div>
 <div></div>
 <div>Thanks,</div>
 <div></div>
