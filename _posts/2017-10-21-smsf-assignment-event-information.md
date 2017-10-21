@@ -4,8 +4,10 @@ post_title: 'SMSF Assignment: Event Information'
 author: ng23055
 post_excerpt: ""
 layout: post
-permalink: 'http://www.shepherdmaplesyrupfest.org?p=7504&preview=true&preview_id=7504'
-published: false
+permalink: >
+  http://www.shepherdmaplesyrupfest.org/smsf-assignment-event-information
+published: true
+post_date: 2017-10-21 17:39:20
 ---
 <div>Between now and November 10 I will be collecting event descriptions from organizations, coordinators, and event chair persons. If you are planning an event, or you will be involved, please compile the following information and forward it to <a href="mailto:editor@shepherdhistory.org">editor@shepherdhistory.org</a>:
 <div>
