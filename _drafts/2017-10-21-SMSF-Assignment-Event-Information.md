@@ -7,9 +7,7 @@ layout: post
 permalink: 'http://www.shepherdmaplesyrupfest.org?p=7504&preview=true&preview_id=7504'
 published: false
 ---
-This month, I announced the dates for the editorial schedule I've established for the Shepherd Maple Syrup Festival website. The schedule is included in the publishing guidelines which I posted on the site here http://www.shepherdmaplesyrupfest.org/submissions-to-the-shepherd-maple-syrup-festival-website.
-<div></div>
-<div>By November 10, I would like each chair person or coordinator to submit the following information related to their event:
+<div>Between now and November 10 I will be collecting By November 10, I would like each chair person or coordinator to submit the following information related to their event:
 <div>
 <ul>
  	<li>Event Title</li>
