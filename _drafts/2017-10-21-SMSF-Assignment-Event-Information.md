@@ -7,7 +7,7 @@ layout: post
 permalink: 'http://www.shepherdmaplesyrupfest.org?p=7504&preview=true&preview_id=7504'
 published: false
 ---
-<div>Between now and November 10 I will be collecting By November 10, I would like each chair person or coordinator to submit the following information related to their event:
+<div>Between now and November 10 I will be collecting event descriptions from organizations, coordinators, and event chair persons. By November 10, I would like each chair person or coordinator to submit the following information related to their event:
 <div>
 <ul>
  	<li>Event Title</li>
