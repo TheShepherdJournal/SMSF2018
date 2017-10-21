@@ -21,8 +21,4 @@ published: false
 </ul>
 </div>
 </div>
-<div>If you have questions, feel f</div>
-<div></div>
-<div>Thanks,</div>
-<div></div>
-<div>Jon</div>
+<div>If you have questions, feel free to contact me at the same email address given above. For more details on how to submit content to the Shepherd Maple Syrup Festival website, <a href="http://www.shepherdmaplesyrupfest.org/submissions-to-the-shepherd-maple-syrup-festival-website">see the submission guidelines here</a></div>
