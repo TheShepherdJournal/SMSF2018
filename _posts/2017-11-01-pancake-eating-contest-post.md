@@ -4,8 +4,10 @@ post_title: 'Pancake Eating Contest &#8211; Post'
 author: ng23055
 post_excerpt: ""
 layout: post
-permalink: 'http://www.shepherdmaplesyrupfest.org?p=7515&preview=true&preview_id=7515'
-published: false
+permalink: >
+  http://www.shepherdmaplesyrupfest.org/pancake-eating-contest-post
+published: true
+post_date: 2017-11-01 23:41:34
 ---
 <p>Come and enjoy the fun as you eat as many pancakes as you can in eight minutes!  Prizes awarded to all who enter the contest.</p>
 <p>The Pancake Eating Contest will be held on Sunday, April 29, 2018 at 9 a.m. as a part of the 2018 Shepherd Maple Syrup Festival. The contest will take place under a tent in front of the Shepherd High School. In the case of bad weather, it will be moved into the high school cafeteria.</p>
